@@ -1,0 +1,5 @@
+{"level":"info","message":"Hello0 from devops project","service":"devops_project"}
+{"level":"info","message":"::1 - - [22/Jan/2026:15:04:21 +0000] \"GET / HTTP/1.1\" 200 25 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"devops_project"}
+{"level":"info","message":"::1 - - [22/Jan/2026:15:04:21 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"devops_project"}
+{"level":"info","message":"Hello from devops project","service":"devops_project"}
+{"level":"info","message":"::1 - - [22/Jan/2026:15:04:36 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"devops_project"}
