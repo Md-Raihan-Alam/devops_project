@@ -6,6 +6,7 @@ import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import authRouter from '#routes/auth.routes.js';
 import securityMiddleware from '#middleware/security.middleware.js';
+import usersRouter from '#routes/users.routes.js';
 const app = express();
 
 app.use(helmet());
@@ -37,5 +38,5 @@ app.get('/api', (req, res) => {
 });
 
 app.use('/api/auth', authRouter);
-
+app.use('/api/users', usersRouter);
 export default app;
