@@ -111,3 +111,9 @@
 {"level":"info","message":"::1 - - [26/Jan/2026:15:28:38 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"devops_project"}
 {"level":"info","message":"::1 - - [26/Jan/2026:15:29:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"devops_project"}
 {"level":"info","message":"::1 - - [26/Jan/2026:15:29:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::1 - - [28/Jan/2026:16:43:26 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::1 - - [28/Jan/2026:16:43:57 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::1 - - [28/Jan/2026:16:44:27 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Jan/2026:17:26:57 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Jan/2026:17:26:57 +0000] \"GET /api HTTP/1.1\" 200 43 \"-\" \"-\"","service":"devops_project"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Jan/2026:17:26:57 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"devops_project"}
